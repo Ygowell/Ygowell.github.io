@@ -62,7 +62,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: aeb866a8db6f1ee2e8c2   #生成的clientID
   clientSecret: c6a92009dec62d8b8553f73c71a96c0aba0d1cc8 #同上
-  repo: ygowell.github.io    #仓库名称
+  repo: Ygowell.github.io    #仓库名称
   owner: Ygowell    #github用户名
   admin: Ygowell
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
