@@ -1,7 +1,7 @@
 # Site settings
 title: MUY Blog                          # 你的博客首页主标题
 SEOTitle: 木易的博客 | MUY Blog            # 显示在浏览器上搜索的时候显示的标题
-header-img: img/post-bg-desk.jpg         # 
+header-img: img/home_bg.jpg         # 
 email: yangguowei_0115@126.com
 description: "Android Developer---笃学尚行，止于至善!"
 keyword: "MUY, MUY Blog, 博客, 木易, Android, React-Native, Apple, iPhone, Server"
