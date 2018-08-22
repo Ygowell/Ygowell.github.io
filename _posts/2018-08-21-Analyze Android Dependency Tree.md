@@ -1,4 +1,4 @@
-- ### Why
+ ### Why
     首先想想我们为什么我需要分析依赖库？    
     现在，我们在开发项目的过程中，不会再“傻傻”地的去自行封装网络库、图片库、工具库等等，而是找一些好的开源库，随着库的数量增多，这样难免不会碰到这些第三方库中又依赖了公共的另一个第三方库，如果使用的库的版本不一样就会导致编译失败，出现类似以下的错误日志：
 
@@ -9,9 +9,9 @@
     ```
     这时候就需要去分析使用的库的依赖树，找出使用了相同的库，通过exclude排除一个。
 
-- ### How
-    这里有两种方法去分析依赖库
-    ##### Gradle View
+ ### How
+    这里有两种方法去分析依赖
+   ##### Gradle View
     这是一个插件，需要去Android Studio的Plugin中下载。   
     然后我们打开gradle view
 
@@ -21,7 +21,7 @@
     
     ![image](https://raw.githubusercontent.com/Ygowell/MuyPic/master/res/gradle_view2.jpeg)
     
-    ##### 指令方式
+   ##### 指令方式
     
     这种方式只需要你在android studio Terminal中输入
     
