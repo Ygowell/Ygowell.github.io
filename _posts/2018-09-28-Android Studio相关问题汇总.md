@@ -19,8 +19,8 @@ Re-download dependencies and sync project (requires network)
 可能是你之前下载的gralde文件有问题或者对应的下载版本不正确
 
 #### 解决方法：    
-我将./gradle/wrapper/dists中的对应版本，例如gradle-4.4-all删除，然后重新下载；   
-如果不行话，建议改下gradle-wrapper.properties中gradle的版本号（你可以从https://services.gradle.org/distributions/找可用的）
+我将./gradle/wrapper/dists中的对应版本，例如gradle-4.4-all删除，然后重新sync；   
+如果仍然不行，建议改下gradle-wrapper.properties中gradle的版本号（你可以从https://services.gradle.org/distributions/找可用的）
 
 ```
 distributionUrl=https\://services.gradle.org/distributions/gradle-4.4.1-all.zip
