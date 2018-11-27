@@ -26,7 +26,6 @@
 		
 		System.out.println("Loop count：" + i);
 	}
-}
 ```
 
 #### 优化后：
@@ -53,5 +52,4 @@
 		
 		System.out.println("Loop count：" + i);
 	}
-}
 ```
