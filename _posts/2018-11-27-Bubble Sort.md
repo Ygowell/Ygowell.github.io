@@ -1,4 +1,4 @@
-## Bubble Sort
+# Bubble Sort
    最近在学习算法，记录在学习过程中一些经验的积累，本次主要学习的是冒泡算法，也叫Bubble Sort, 请一定记录英文名，不要再别人问你的时候，一脸茫（meng）然（bi）。
    
    "实践是检查真理唯一标注" 这句伟大的名言让我深有体会，在学完后，原本以为很简单，就不太在意，今天突然想动手写下这个算法，居然出了好多问题，真实惭愧啊！
@@ -9,7 +9,7 @@
    
    空间复杂度：不需要额外空间做为辅助，所以是O(1)
 
-#### 优化前：
+### 优化前：
 ```
 	private void bubbleSort(int[] num) {
 		int length = num.length;
@@ -28,7 +28,7 @@
 	}
 ```
 
-#### 优化后：
+### 优化后：
 ```
 	private void bubbleSort(int[] num) {
 		int length = num.length;
