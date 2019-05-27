@@ -10,7 +10,7 @@ tags:
     - Blog
 ---
 
-# 序幕篇
+## 序幕篇
 经过几天的不懈努力，终于搭建好了属于自己的Blog，万事开头难，踏过了这个门槛，相信自己会越来越强的，我可不怕这辈子屌爆了，下辈子做女人~！~！>*_*<
 
 My name is James. I come from Hubei province in China. I live in beijing. I'm an android developer. I love travel, playing football and learning English!
