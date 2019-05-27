@@ -5,7 +5,7 @@ subtitle:   这是个伟大的日子!---To me
 date:       2018-03-14
 author:     MuY
 header-img: img/bg_beginning.jpg
-catalog: true
+catalog: false
 tags:
     - Blog
 ---
